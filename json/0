@@ -1,27 +1,6 @@
 {
-    "title": "Orange & Tiger", 
+    "description": "They are my cats", 
+    "image": "https://raw.githubusercontent.com/ChiHangChen/metadata_storage/master/img/0.jpg", 
     "name": "Orange & Tiger",
-    "type": "object",
-    "imageUrl": "https://raw.githubusercontent.com/ChiHangChen/metadata_storage/master/img/0.jpg",
-    "description": "They are my cats, they are cuts",
-    "attributes": [
-      {
-        "trait_type": "Creator",
-        "value": "JimChen"
-      }
-    ],
-    "properties": {
-      "name": {
-        "type": "string",
-        "description": "They are my cats"
-      },
-      "description": {
-        "type": "string",
-        "description": "why so many description"
-      },
-      "preview_media_file":{
-        "type": "string",
-        "description": "https://raw.githubusercontent.com/ChiHangChen/metadata_storage/master/img/0.jpg"
-      }
-    }
-  }
+    "attributes": []
+}
